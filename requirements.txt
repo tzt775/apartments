@@ -1,0 +1,2 @@
+pandas==2.2.2
+missingno==0.5.2
